@@ -1,2 +1,2 @@
 # password-manager
-password manager app using node js
+password manager command-line interface using node js
